@@ -1,13 +1,13 @@
 analytics: {}
 color:
   brandColors: []
-  brandStrength: 0
-  lightness: 0.682436
-  rhythmicContrast: 0.696875
-  saturation: 1
+  brandStrength: 0.2691105229431341
+  lightness: 0.6824363940789225
+  rhythmicContrast: 0.2608725254538422
+  saturation: 0.6643144831088772
 cta: {}
-layout_spectrum: 0
+layout_spectrum: 0.9679459611445562
 name: VN2015
 opengraph: {}
 purpose: {}
-typography_spectrum: 0
+typography_spectrum: 0.6239738229474405
